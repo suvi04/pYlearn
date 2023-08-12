@@ -1,3 +1,6 @@
+# pYlearn ~ Suvansh 
+[@13suvansh](https://www.instagram.com/13suvansh/)
+
 
 ## Question 1
 
@@ -1232,7 +1235,5 @@ Flappy Bird clone
 Make a python tutorial
 
 
-## ~suvansh gupta 
-###  reach out to me at 
 
-[@13suvansh](https://www.instagram.com/13suvansh/)
+
