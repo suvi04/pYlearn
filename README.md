@@ -3,6 +3,12 @@ reach out for any queries :
 [@13suvansh](https://www.instagram.com/13suvansh/)
 
 
+## Learning resources: 
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)\
+[freecodecamp - YT](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+
+
 
 ## Question 1
 
@@ -1228,9 +1234,13 @@ CLI-Image extension changer using pillow
 
 Mario like runner
 
+[runner](https://github.com/suvi04/runner)
+
 ## Question 49
 
 Flappy Bird clone
+
+[pyFLY](https://github.com/suvi04/pyFLY)
 
 ## Question 50
 
@@ -1239,3 +1249,8 @@ Make a python tutorial
 
 
 
+## Further learning : 
+
+[DM::OJ - competitive programming](https://dmoj.ca/)\
+[projects](https://nedbatchelder.com/text/kindling.html)\
+[contribute to open-source](https://fuchsia.dev/)
